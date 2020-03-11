@@ -1,1 +1,5 @@
 Bienvenue dans mon Git personnel!
+
+J'aimerais rajouter ça dans ton projet...
+
+c'est tu okay ??
